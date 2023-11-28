@@ -28,7 +28,7 @@
   "dependencies": {
     "object-assign": "^4.0.1",
     "promise-polyfill": "^3.1.0",
-    "request-promise": "^2.0.1"
+    "request-promise": "^4.0.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
